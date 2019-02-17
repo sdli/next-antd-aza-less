@@ -1,0 +1,28 @@
+{
+  "name": "next-antd-aza-less",
+  "version": "1.0.0",
+  "description": "A less loader tool for next.js and antd intergration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdli/next-antd-aza-less.git"
+  },
+  "keywords": [
+    "nextjs",
+    "less",
+    "antd"
+  ],
+  "author": "steven leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdli/next-antd-aza-less/issues"
+  },
+  "homepage": "https://github.com/sdli/next-antd-aza-less#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "babel-plugin-import": "^1.11.0"
+  }
+}
