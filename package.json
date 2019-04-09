@@ -1,6 +1,6 @@
 {
   "name": "next-antd-aza-less",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A less loader tool for next.js and antd intergration",
   "main": "index.js",
   "scripts": {
@@ -23,9 +23,8 @@
   "homepage": "https://github.com/sdli/next-antd-aza-less#readme",
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
-    "babel-plugin-import": "^1.11.0"
-  },
-  "peerDependencies": {
+    "babel-plugin-import": "^1.11.0",
+    "less": "^3.9.0",
     "less-loader": "^4.1.0"
   }
 }
